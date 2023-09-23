@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma Nur. I am a Mathematical Engineering student at YTU. I have been improving myself . On my profile, I share the projects I have done, large and small.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
