@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Fatma Nur. I am a Mathematical Engineering student at YTU. I have been improving myself . On my profile, I share the projects I have done, large and small.</h1>
+<h2 align="center">Hi 👋, I'm Fatma Nur. On my profile, I share the projects I have done, large and small.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatma-nur-karaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-nur-karaman" height="30" width="40" /></a>
